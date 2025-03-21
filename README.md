@@ -29,3 +29,13 @@ Offers a detailed benchmarking of individual creators.
 🛠️ Tools Used
 Tableau – For building interactive data visualizations.
 Data Source – Global YouTube dataset including KPIs, video views, earnings, uploads, and demographics.
+🚀 How to Use
+Clone or download this repository.
+Open the Tableau file (.twbx) using Tableau Desktop or Tableau Public.
+Explore the dashboard by navigating through the 7 visual pages listed above.
+Use filters and interactive elements to dive deeper into specific regions, age groups, or creators.
+📌 Use Cases
+Analyze YouTube content performance across categories and countries.
+Understand creator demographics and revenue patterns.
+Benchmark top creators for strategic planning.
+Identify audience trends to tailor content strategies.
