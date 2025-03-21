@@ -4,13 +4,13 @@ This project presents an interactive Tableau dashboard offering a detailed analy
 
 📁 Dashboard Pages & Features
 
-**1. 🧑‍💻 Age-wise YouTuber Analysis**
+**1. 🧑‍💻 Age-wise YouTuber Analysis
 * Visualizes YouTuber distribution across different age groups.
-* Highlights subscriber counts by age to understand creator demographics.
-**2. 🎥 Video Views by Category**
+* Highlights subscriber counts by age to understand creator demographics.**
+**2. 🎥 Video Views by Category
 * Analyzes total video views by content category such as:
 * Music, Entertainment, Gaming, Education, People & Blogs.
-* Helps identify which content types attract the most viewers.
+* Helps identify which content types attract the most viewers.**
 **3. 🚻 YouTuber Count by Gender**
 * Displays the number of YouTubers by gender (Male/Female).
 * Useful for understanding gender diversity among content creators.
