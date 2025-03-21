@@ -9,7 +9,9 @@ This project presents an interactive Tableau dashboard offering a detailed analy
 
 * Visualizes YouTuber distribution across different age groups.
 * Highlights subscriber counts by age to understand creator demographics.**
-**2. 🎥 Video Views by Category
+  
+**2. 🎥 Video Views by Category**
+
 * Analyzes total video views by content category such as:
 * Music, Entertainment, Gaming, Education, People & Blogs.
 * Helps identify which content types attract the most viewers.
